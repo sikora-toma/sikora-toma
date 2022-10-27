@@ -1,4 +1,4 @@
-## Hi there
+## Hello there
 
 Computer scientist by degree, roboticist by heart. Interested in robotics and artificial intelligence. Fascinated by dynamic, nature-inspired control systems and learning algorithms.
 
