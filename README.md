@@ -1,9 +1,15 @@
-### Hi there
+## Hi there
 
 Computer scientist by degree, roboticist by heart. Interested in robotics and artificial intelligence. Fascinated by dynamic, nature-inspired control systems and learning algorithms.
 
 I'm currently working on control for a [drone](https://github.com/sikora-toma/drone-project) I built from scratch, autonomous driving stack for the [Duckietown project](https://github.com/duckietown/gym-duckietown) with the [PoliDuckie team](https://github.com/poliduckie), and navigation for infrastructure inspection drones with the [LARICS lab](https://github.com/larics).
 
+### Projects
+- drone-project
+- Duckietown
+- agilex-scout-odometry
+- Software_Engineering_2_Project_Medvedec_Sikora
+- coding-practice
 <!--
 **sikora-toma/sikora-toma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
