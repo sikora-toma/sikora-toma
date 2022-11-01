@@ -8,12 +8,14 @@ I'm currently working on control for a [drone](https://github.com/sikora-toma/dr
 - `drone-project`: a quadcopter built from scratch.
 - `Duckietown`: an autonomous driving platform started by MIT holding annual worldwide competitions in various disciplines
   - PoliDuckie team won 5th place in 2021 and presented its work at NeurIPS!
-- `agilex-scout-odometry`: Odometry computation for AgileX Scout 2.0 robot. 
+- `agilex-scout-odometry`: odometry computation for AgileX Scout 2.0 robot. 
 - `mousecheese`: PlayBot4All team 3 project.
-- `Software_Engineering_2_Project_Medvedec_Sikora`: Android app built for store customer management during pandemic times. 
+- `gym-pendulum-control`: control theory algorithm implementations on the inverted pendulum problem.
+- `Software_Engineering_2_Project_Medvedec_Sikora`: android app built for store customer management during pandemic times. 
 - `coding-practice`: personal algorithm practice repo.
 
 Linkedin profile: [https://hr.linkedin.com/in/toma-sikora-8ab8a7201](https://hr.linkedin.com/in/toma-sikora-8ab8a7201)
+Email: [toma.petar.sikora@gmail.com](mailto:toma.petar.sikora@gmail.com)
 <!--
 **sikora-toma/sikora-toma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
