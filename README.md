@@ -15,6 +15,7 @@ I'm currently working on control for a [drone](https://github.com/sikora-toma/dr
 - `coding-practice`: personal algorithm practice repo.
 
 Linkedin profile: [https://hr.linkedin.com/in/toma-sikora-8ab8a7201](https://hr.linkedin.com/in/toma-sikora-8ab8a7201)
+
 Email: [toma.petar.sikora@gmail.com](mailto:toma.petar.sikora@gmail.com)
 <!--
 **sikora-toma/sikora-toma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
