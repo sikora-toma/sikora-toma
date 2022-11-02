@@ -14,6 +14,7 @@ I'm currently working on control for a [drone](https://github.com/sikora-toma/dr
 - `Software_Engineering_2_Project_Medvedec_Sikora`: android app built for store customer management during pandemic times. 
 - `coding-practice`: personal algorithm practice repo.
 
+
 Linkedin profile: [https://hr.linkedin.com/in/toma-sikora-8ab8a7201](https://hr.linkedin.com/in/toma-sikora-8ab8a7201)
 
 Email: [toma.petar.sikora@gmail.com](mailto:toma.petar.sikora@gmail.com)
