@@ -19,8 +19,8 @@ Linkedin profile: [https://hr.linkedin.com/in/toma-sikora-8ab8a7201](https://hr.
 
 Emails:
 - [toma.petar.sikora@gmail.com](mailto:toma.petar.sikora@gmail.com)
-- [toma.sikora@mail.polimi.it] (mailto:toma.sikora@mail.polimi.it)
-- [toma.sikora@fesb.hr] (mailto:toma.sikora@fesb.hr)
+- [toma.sikora@mail.polimi.it](mailto:toma.sikora@mail.polimi.it)
+- [toma.sikora@fesb.hr](mailto:toma.sikora@fesb.hr)
 <!--
 **sikora-toma/sikora-toma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
