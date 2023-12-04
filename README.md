@@ -2,7 +2,7 @@
 
 Computer scientist by degree, roboticist by heart. Interested in robotics and artificial intelligence. Fascinated by dynamic, nature-inspired control systems and learning algorithms.
 
-I'm currently working on the control of a [drone](https://github.com/sikora-toma/drone-project) I built from scratch, autonomous driving stack for the [Duckietown project](https://github.com/duckietown/gym-duckietown) with the [PoliDuckie team](https://github.com/poliduckie), and navigation for infrastructure inspection drones with the [LARICS lab](https://github.com/larics).
+I'm currently working on the control of a [drone](https://github.com/sikora-toma/drone-project) I built from scratch, autonomous driving stack for the [Duckietown project](https://github.com/duckietown/gym-duckietown) with the [PoliDuckie team](https://github.com/poliduckie), and navigation for dynamic object inspection drones at FESB, Split.
 
 ### Projects
 - `drone-project`: a quadcopter built from scratch.
@@ -17,7 +17,10 @@ I'm currently working on the control of a [drone](https://github.com/sikora-toma
 
 Linkedin profile: [https://hr.linkedin.com/in/toma-sikora-8ab8a7201](https://hr.linkedin.com/in/toma-sikora-8ab8a7201)
 
-Email: [toma.petar.sikora@gmail.com](mailto:toma.petar.sikora@gmail.com)
+Emails:
+- [toma.petar.sikora@gmail.com](mailto:toma.petar.sikora@gmail.com)
+- [toma.sikora@mail.polimi.it] (mailto:toma.sikora@mail.polimi.it)
+- [toma.sikora@fesb.hr] (mailto:toma.sikora@fesb.hr)
 <!--
 **sikora-toma/sikora-toma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
